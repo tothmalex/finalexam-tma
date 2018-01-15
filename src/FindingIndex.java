@@ -16,7 +16,7 @@ public class FindingIndex {
         System.out.print("Enter a letter:\n ");
         oneLetter = keyboard2.nextLine();
 
-        System.out.println("List of indexes where the letter given is present in the word: " + indexHunter(oneWord, oneLetter) );
+        System.out.println("List of indexes where the letter given is present in the word: " + indexHunter(oneWord, oneLetter));
     }
 
     public static ArrayList indexHunter(String oneWord, String oneLetter) {
@@ -28,7 +28,7 @@ public class FindingIndex {
                 result.add(i);
             } else {
             }
-        }return result;
+        } return result;
     }
 }
 
