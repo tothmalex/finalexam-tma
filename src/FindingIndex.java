@@ -13,7 +13,7 @@ public class FindingIndex {
         oneWord = keyboard.nextLine();
 
         Scanner keyboard2 = new Scanner(System.in);
-        System.out.print("Enter a letter:\n ");
+        System.out.print("Enter a lowercase letter:\n ");
         oneLetter = keyboard2.nextLine();
 
         System.out.println("List of indexes where the letter given is present in the word: " + indexHunter(oneWord, oneLetter));
@@ -24,7 +24,7 @@ public class FindingIndex {
         ArrayList<Integer> result = new ArrayList<>();
 
         for (int i = 0; i < oneWord.length(); i++) {
-            if (oneWord.charAt(i) == oneLetter.charAt(0)) {
+            if (Character.toLowerCase(oneWord.charAt(i)) == oneLetter.charAt(0)) {
                 result.add(i);
             } else {
             }
