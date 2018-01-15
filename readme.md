@@ -90,6 +90,7 @@ The student, on their own, is able to:
 
 - understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
+  - [Find it here](https://gist.github.com/hofmannsven/9164408)
 - connecting database to backend application
   - database framework configuration
   [Find it here](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/resources/application.properties)
