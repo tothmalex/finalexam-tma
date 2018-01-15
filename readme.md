@@ -57,6 +57,7 @@ The student, on their own, is able to:
 
 - usage of language integrated queries e.g. LINQ/StreamApi
 	[Find it here](http://www.java2s.com/Tutorials/Java_Streams/java.util.stream/Stream/Stream_generate_Supplier_s_example.htm)
+	[Orientation exam](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/java/com/greenfox/exam/controller/MainController.java)
 - understanding the syntax
 - able to write simple custom quaries
 
@@ -74,7 +75,8 @@ The student, on their own, is able to:
 
 ## Backend Framework
 
-- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core 
+	[Orientation exam](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/java/com/greenfox/exam/controller/MainController.java)
 - understanding the used components
 - find documentation and usage examples
 - understanding the framework and the application as web backend
